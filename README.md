@@ -23,8 +23,7 @@ Currently, I serve as a **Software Engineer - Data & Analytics** at **UB Technol
 - Statistical Analysis
 - Natural Language Processing 
 - Model Deployment & Performance Optimization
-- Python
-- Generative AI
+- Generative AI & Langchain
 
 ### 🔧 Microsoft Fabric & Data Engineering
 - Lakehouse Architecture & OneLake
@@ -41,6 +40,7 @@ Currently, I serve as a **Software Engineer - Data & Analytics** at **UB Technol
 
 - **Microsoft Certified: Data Scientist Associate**
 - **Microsoft Certified: Fabric Analytics Engineer Associate**
+- **Microsoft Certified: Fabric Data Engineer Associate**
 
 ---
 
